@@ -43,8 +43,7 @@ Content-Length: 56
 ========================================================================
 ```
 实际环境中将test替换为Core Admin中得到的应用路径：  
-图1  
-
-本项目是根据POC写出的java利用脚本：  
-图2  
-
+![](https://github.com/TU-SJ/Apache_Solr_RCE_via_Velocity/blob/master/11-8-1.png)   
+本项目是根据POC写出的java利用脚本：    
+![](https://github.com/TU-SJ/Apache_Solr_RCE_via_Velocity/blob/master/11-8-2.png)   
+先进行配置检测，然后再执行命令
